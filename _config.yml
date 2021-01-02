@@ -24,7 +24,10 @@ plugins:
   
 mapping:
 	provider: openstreetmap  
-
+    zoom: 8
+	dimensions:
+		width: 600
+		height: 400
 
 
 # ----------------------- #
