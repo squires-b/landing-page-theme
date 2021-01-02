@@ -21,6 +21,10 @@ permalink: pretty
 
 plugins:
   - jekyll-maps
+  
+mapping:
+	provider: openstreetmap  
+
 
 
 # ----------------------- #
