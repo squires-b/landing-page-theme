@@ -22,6 +22,7 @@ permalink: pretty
 plugins:
   - jekyll-maps
 
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
@@ -29,3 +30,7 @@ plugins:
 social:
   - title: Appointments
     url: https://book.squires-barbers.co.uk/index.php
+    
+maps:
+  google:
+    api_key: AIzaSyBtJVjFw_mAxU6b25Vs_a6h6mlhkozbSiY
