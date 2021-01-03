@@ -21,15 +21,6 @@ permalink: pretty
 
 plugins:
   - jekyll-maps
-  
-mapping:
-	provider: openstreetmap  
-    zoom: 8
-	dimensions:
-		width: 600
-		height: 400
-
-
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
